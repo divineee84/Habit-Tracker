@@ -1,6 +1,6 @@
-===============================
+==========
       DAILY HABIT TRACKER CLI
-===============================
+==========
 
 Track your daily habits like a beast.
 Build streaks, get stats, stay disciplined.
@@ -56,4 +56,4 @@ Enter habit name: Gym
 Habit 'Gym' added.
 ...
 
-CREATED BY WOXXY - KEEP GRINDING, KEEP SHINING.
+CREATED BY Divine - KEEP GRINDING, KEEP SHINING.
